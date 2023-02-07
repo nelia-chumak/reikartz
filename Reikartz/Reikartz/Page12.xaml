@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Reikartz.Page12"
+             Title="Info about rooms">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="CenterAndExpand" Padding="20,20,20,20">
+            <ListView x:Name="Numbers" HasUnevenRows="True" ItemTapped="T1">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="{Binding image}" WidthRequest="240" HeightRequest="135" />
+                                    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                                        <Label Text="{Binding number}" FontSize="40" 
+                                               TextColor="DarkRed"  VerticalOptions="Center" HorizontalOptions="Center"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

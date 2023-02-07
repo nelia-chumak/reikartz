@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Reikartz.Page23"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <ContentPage.Content>
+        <StackLayout x:Name="SL" Padding="20,20,20,20">
+            <Label Text="Enter name: "
+                   FontSize="Default"/>
+            <Entry x:Name="E1" 
+                   FontSize="Default"/>
+            <Label Text="Enter date of birt in format dd.mm.yyyy: "
+                   FontSize="Default"/>
+            <Entry x:Name="E2" 
+                   FontSize="Default"/>
+            <DatePicker x:Name="date" 
+                   DateSelected="D1">
+            </DatePicker>
+            <Label Text="Enter passport ID (9 numbers): "
+                   FontSize="Default"/>
+            <Entry x:Name="E3" 
+                   FontSize="Default"/>
+            <Label Text="Select gender: "
+                   FontSize="Default"/>
+            <Picker x:Name="picker">
+                <Picker.Items>
+                    <x:String>feminin</x:String>
+                    <x:String>masculin</x:String>
+                </Picker.Items>
+            </Picker>
+            <Button x:Name="Button1"
+                       Text="Enter"
+                       FontSize="Default"
+                       WidthRequest="75"
+                       Clicked="B1">
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</pages:PopupPage>

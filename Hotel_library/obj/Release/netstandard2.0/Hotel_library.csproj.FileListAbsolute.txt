@@ -1,0 +1,9 @@
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\bin\Release\netstandard2.0\Hotel_library.deps.json
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\bin\Release\netstandard2.0\Hotel_library.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\bin\Release\netstandard2.0\Hotel_library.pdb
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.csprojAssemblyReference.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.AssemblyInfoInputs.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.AssemblyInfo.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Hotel_library\obj\Release\netstandard2.0\Hotel_library.pdb

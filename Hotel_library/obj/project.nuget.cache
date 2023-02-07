@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2ROLGmBsC9jEIehkSY0jTh8CKGr9TFL06l6Sz3ABwbvpyLbs8luUIexkin2kHVeubkoSHR0ILilpb8SZMpRwQ==",
+  "success": true,
+  "projectFilePath": "\\\\DESKTOP-0CEV174\\Users\\Неля\\Documents\\Программирование\\Мои\\С# мой\\Reikartz\\Hotel_library\\Hotel_library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neoni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\neoni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

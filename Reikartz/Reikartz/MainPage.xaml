@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Reikartz.MainPage"
+             Title="MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="12,12,12,12" HorizontalOptions="CenterAndExpand"  VerticalOptions="FillAndExpand" BackgroundColor="Beige">
+            <Image
+               x:Name="Image_hot"
+               HorizontalOptions="Center"
+               VerticalOptions="Start" />
+            <StackLayout Padding="12,12,12,12" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand">
+               <Button x:Name="Button1"
+                   Text="Admin"
+                   FontAttributes="Italic"
+                   FontSize="Title"
+                   BackgroundColor="White"
+                   WidthRequest="200"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Clicked="B1">
+                </Button>
+                <Button x:Name="Button2"
+                   Text="Guest"
+                   FontAttributes="Italic"
+                   FontSize="Title"
+                   BackgroundColor="White"
+                   WidthRequest="200"
+                   HorizontalOptions="Center"
+                   Clicked="B2">
+                </Button>
+                <Button x:Name="Button3"
+                   Text="Exit"
+                   FontAttributes="Italic"
+                   FontSize="Title"
+                   TextColor="DarkRed"
+                   BackgroundColor="White"
+                   WidthRequest="200"
+                   HorizontalOptions="Center"
+                   Clicked="B3">
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

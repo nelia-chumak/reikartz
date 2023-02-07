@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Reikartz.Page11">
+    <ContentPage.Content>
+        <StackLayout Padding="12,12,12,12" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand">
+            <Label Text="Enter password:"
+                   FontSize="Medium"/>
+            <Entry x:Name="PasswordEntry" 
+                   FontSize="Medium"
+                   Placeholder = "Password" 
+                   IsPassword ="True" />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Button x:Name="Button1"
+                       Text="Enter"
+                       FontSize="Default"
+                       WidthRequest="75"
+                       Clicked="B1">
+                </Button>
+                <Button x:Name="Button2"
+                       Text="Exit "
+                       FontSize="Default"
+                       WidthRequest="75"
+                       Clicked="B2">
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

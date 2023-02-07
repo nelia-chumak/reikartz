@@ -1,0 +1,101 @@
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfoInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfo.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.deps.json
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csprojAssemblyReference.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page11.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Hotel\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CopyComplete
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.deps.json
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csprojAssemblyReference.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page11.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page12.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page21.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page22.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page23.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page25.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page5.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page6.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page7.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfoInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfo.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CopyComplete
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.deps.json
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.pdb
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csprojAssemblyReference.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page11.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page12.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page21.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page22.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page23.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page25.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page5.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page6.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page7.xaml.g.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfoInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfo.cs
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CopyComplete
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Documents\Программирование\Мои\С# мой\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.deps.json
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\bin\Debug\netstandard2.0\Hotel_library.pdb
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csprojAssemblyReference.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page11.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page12.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page21.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page22.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page23.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page25.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page5.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page6.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Page7.xaml.g.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfoInputs.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.AssemblyInfo.cs
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CopyComplete
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\ref\Reikartz.dll
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.pdb
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\Reikartz.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Downloads\ConsoleApplication1\Reikartz1\Reikartz\Reikartz\obj\Debug\netstandard2.0\XamlC.stamp

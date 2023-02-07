@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Reikartz.Page2">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand"  VerticalOptions="FillAndExpand" BackgroundColor="Beige">
+            <StackLayout Padding="12,12,12,12" HorizontalOptions="CenterAndExpand"  VerticalOptions="StartAndExpand" BackgroundColor="Beige">
+                <Button x:Name="Button1"
+                       Text="Book"
+                       FontSize="Title"
+                       TextColor="Brown"
+                       BackgroundColor="BlanchedAlmond"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       Clicked="B1">
+                </Button>
+                <Button x:Name="Button2"
+                       Text="Rent"
+                       FontSize="Title"
+                       TextColor="Brown"
+                       BackgroundColor="BlanchedAlmond"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       Clicked="B2">
+                </Button>
+                <Button x:Name="Button3"
+                       Text="Extend rent"
+                       FontSize="Title"
+                       TextColor="Brown"
+                       BackgroundColor="BlanchedAlmond"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       Clicked="B3">
+                </Button>
+                <Button x:Name="Button4"
+                       Text="See info about all rooms"
+                       FontSize="Title"
+                       TextColor="Brown"
+                       BackgroundColor="BlanchedAlmond"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       Clicked="B4">
+                </Button>
+                <Button x:Name="Button5"
+                       Text="Log out"
+                       FontSize="Title"
+                       TextColor="Brown"
+                       BackgroundColor="BlanchedAlmond"
+                       WidthRequest="300"
+                       HorizontalOptions="Center"
+                       Clicked="B5">
+                </Button>
+                <StackLayout Padding="12,12,12,12" HorizontalOptions="FillAndExpand"  VerticalOptions="EndAndExpand">
+                    <Image
+                       x:Name="Image_hotel"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Start" />
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
